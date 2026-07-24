@@ -2,7 +2,10 @@
     
 ![Portfolio Banner](https://github.com/user-attachments/assets/ef338a9b-c22b-4961-9040-20cea83b6a28)
 
+
 **A cutting-edge, high-performance portfolio showcasing modern web development excellence**
+
+[![launch with diploi badge](https://diploi.com/launch.svg)](https://diploi.com/launch/rajtilak-2020/Portfolio-V4)
 
 [![Website](https://img.shields.io/badge/🌐%20Live%20Website-krajtilak.dev-blue?style=for-the-badge&logo=vercel)](https://krajtilak.vercel.app)
 [![Next.js](https://img.shields.io/badge/Next.js-14-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
@@ -72,6 +75,22 @@ This is the **fourth iteration** of my personal portfolio, built from the ground
 - **CI/CD Pipeline** - Automated testing, building, and deployment
 
 </details>
+
+## Deployment
+
+### Deploy to Diploi
+
+[![launch with diploi button](https://diploi.com/launch-big.svg)](https://diploi.com/launch/rajtilak-2020/Portfolio-V4)
+
+1. **Launch the project**
+
+Click the launch button above to create a new Diploi deployment.
+
+2. **Preview the deployment**
+
+Open the provided preview URL from your Diploi deployment page.
+
+For more information, please visit [diploi.com](https://diploi.com/).
 
 ## 🏗️ System Architecture
 
